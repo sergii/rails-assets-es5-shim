@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-es5-shim",
+  "downloads": null,
+  "version": "4.5.13",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "ECMAScript 5 compatibility shims for legacy JavaScript engines",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "https://github.com/es-shims/es5-shim",
+  "gem_uri": null,
+  "homepage_uri": "https://github.com/es-shims/es5-shim",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "https://github.com/es-shims/es5-shim",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
